@@ -28,7 +28,7 @@ Recipes_CN = {
     Recipe_Clean_Denim_Strips = "清洗牛仔布条",
     Recipe_Clean_Leather_Strips = "清洗皮革条",
     Recipe_Clean_Rag = "清洗碎布条",
-    Recipe_Clean_Tray = "清理烤盘",
+    Recipe_Clean_Tray = "清空烤盘",
     Recipe_Close_Umbrella = "收起雨伞",
     Recipe_Craft_Makeshift_HAM_Radio = "制作自制无线电台",
     Recipe_Craft_Makeshift_Radio = "制作自制收音机",
@@ -378,5 +378,6 @@ Recipes_CN = {
     Recipe_Make_Metal_Walls = "制作金属墙",
     Recipe_Make_Metal_Roof = "制作金属屋顶",
     Recipe_Open_Canned_Fruit_Beverage = "打开果饮罐头",
+    Recipe_Clean_Baking_Tray = "清空烤板",
 
 }

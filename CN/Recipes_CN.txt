@@ -378,6 +378,6 @@ Recipes_CN = {
     Recipe_Make_Metal_Walls = "制作金属墙",
     Recipe_Make_Metal_Roof = "制作金属屋顶",
     Recipe_Open_Canned_Fruit_Beverage = "打开果饮罐头",
-    Recipe_Clean_Baking_Tray = "清空烤板",
+    Recipe_Empty_Baking_Tray = "清空烤板",
 
 }

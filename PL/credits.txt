@@ -1,7 +1,9 @@
-<br>
+------------------------ -
+g³ówny t³umacz: -
+------------------------ -
 geras
 ------------------------ -
-w t³umaczeniu gry pomagali tak¿e: -
+w t³umaczeniu gry pomagaj¹/pomagali tak¿e: -
 ------------------------ -
 Insers
 Lord_Venom
@@ -16,6 +18,7 @@ Spazmatic
 welniok
 Svarog
 yaczesuaff
+Faalagorn
 ------------------------- -
 zawartoœæ VHS i CD: -
 ------------------------- -
